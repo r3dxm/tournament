@@ -1,0 +1,28 @@
+.container {
+  background-color: rgb(145, 23, 23);
+  color: white;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1rem;
+}
+
+.logo {
+  margin-left: 15vw;
+}
+
+.navigationels {
+  margin-right: 15vw;
+  width: 15vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 1rem;
+}

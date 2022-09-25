@@ -1,0 +1,12 @@
+.team-container {
+  background-color: rgb(145, 23, 23);
+  color: white;
+  margin: 3vw;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30vw;
+  height: 15vh;
+  font-size: 0.8rem;
+}

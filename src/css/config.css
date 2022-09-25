@@ -1,0 +1,9 @@
+.config-container {
+  display: flex;
+}
+
+.teams {
+  display: flex;
+  flex-direction: row;
+  flex: wrap;
+}
